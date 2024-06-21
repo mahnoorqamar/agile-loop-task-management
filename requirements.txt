@@ -1,0 +1,6 @@
+transformers
+torch
+flask
+slack_sdk
+pandas
+sqlalchemy
